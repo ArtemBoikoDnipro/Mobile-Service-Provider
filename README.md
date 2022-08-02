@@ -7,4 +7,4 @@ AWS link:
 
 On ethical grounds GitHub repo is private 
 to prevent copying of code by other participants 
-of the first course in ADDITIONAL EDUCATION section.
+of the first course in CV's ADDITIONAL EDUCATION section.
